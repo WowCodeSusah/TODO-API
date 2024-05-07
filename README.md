@@ -1,2 +1,2 @@
 ### My API Diagram
-! [alt](diagram.png)
+![alt](diagram.png)
