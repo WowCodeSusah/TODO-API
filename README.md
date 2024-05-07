@@ -1,1 +1,2 @@
-## My API Diagram
+### My API Diagram
+! [alt](diagram.png)
